@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!zshrc
+!oh-my-zsh/lib/alias.zsh
+
+# ...even if they are in subdirectories
+!*/
